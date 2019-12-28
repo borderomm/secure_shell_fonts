@@ -135,6 +135,14 @@
 }
 
 @font-face {
+    font-family: "MesloLGSNF";
+    src: local("MesloLGSNF"),
+    url(fonts/MesloLGS NF Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: "octicons";
     src: local("octicons"),
     url(fonts/octicons-regular.woff2) format("woff2");
